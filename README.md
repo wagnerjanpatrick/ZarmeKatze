@@ -22,14 +22,14 @@
 </div><br>
 
 
-## 🛠️ My Skills
+## 🛠️ My Teckstack
 
 
 <br>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,discordjs,git,nextjs,nodejs,react,ts,cs,tailwind,rust)](https://maierfabian.de)
+[![My Skills](https://skillicons.dev/icons?i=git,nextjs,nodejs,react,ts,rust)](https://wagnerpatrick.de)
 </div>
 
 <br>
