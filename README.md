@@ -7,15 +7,11 @@
 
 ## 🚀 About Me
 <br>
-🎓 Student Developer from Germany
+  Developer from Germany
 <br>
-💻 Currently working on eSportsApp SENTRY, an essential part of eSportsApp as the lead Developer
+💻 Currently working on eSportsApp as the lead Developer
 
 <br>
-
-
-
-
 
 ## 📊 GitHub Stats
 
@@ -33,7 +29,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,cs,tailwind,angular,rust)](https://maierfabian.de)
+[![My Skills](https://skillicons.dev/icons?i=js,html,discordjs,git,nextjs,nodejs,react,ts,cs,tailwind,rust)](https://maierfabian.de)
 </div>
 
 <br>
